@@ -3,7 +3,7 @@ SwiftUI AdMob Ads , Here I have implement the google AdMob ads ( Interstitial ad
 
 
 This screen is presenting button for loading and showing interstitail ads , banner ad and Native ad
-<img src ="https://user-images.githubusercontent.com/73760345/193196752-0c490bc2-35a9-4306-bcf3-b3a7a08042c4.png" width="60%"/>
+<img src ="https://user-images.githubusercontent.com/73760345/193196752-0c490bc2-35a9-4306-bcf3-b3a7a08042c4.png" width="60%" height="60%"/>
 
 ![Simulator Screen Shot - iPhone 11 - 2022-09-30 at 10 06 25](https://user-images.githubusercontent.com/73760345/193196752-0c490bc2-35a9-4306-bcf3-b3a7a08042c4.png)
 
