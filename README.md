@@ -9,4 +9,4 @@ This screen is presenting button for loading and showing interstitail ads , bann
 InterStitial Ad
 
 
-![Simulator Screen Shot - iPhone 11 - 2022-09-30 at 10 06 34](https://user-images.githubusercontent.com/73760345/193195590-f49d4c3b-b84a-4c89-a22a-3f816d5c642c.png)
+<img src ="https://user-images.githubusercontent.com/73760345/193195590-f49d4c3b-b84a-4c89-a22a-3f816d5c642c.png" align="center" width="50%" height="50%"/>
